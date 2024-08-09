@@ -1,6 +1,6 @@
 Algoritmo "lanchonete"
 
-Var
+Varr
 
   ql,qb,b:inteiro // ql=quantidade de lanche, qb=quantidade de bebidas
 
@@ -18,9 +18,9 @@ Inicio
 
     se (oplanche="s") entao
        escreval("Lanches")
-       escreval("1 - X Salada.................R$ 12,00")
-       escreval("2 - Hambúrguer Simples.......R$ 10,00")
-       escreval("3 - Hambúrguer Duplo.........R$ 14,00")
+       escreval("1 - X Salada.................R$ 18,00")
+       escreval("2 - Hambúrguer Simples.......R$ 15,00")
+       escreval("3 - Hambúrguer Duplo.........R$ 15,00")
        escreval("4 - X Egg....................R$ 13,50")
        escreval("5 - X Tudo...................R$ 15,50")
        escreval("DIGITE O NÚMERO E COM O LANCHE ESCOLHIDO")
